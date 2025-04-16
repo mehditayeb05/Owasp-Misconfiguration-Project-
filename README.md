@@ -14,13 +14,12 @@ This project simulates and demonstrates a common **OWASP security vulnerability:
 ## 📂 Project Structure
 
 /Owasp-Misconfiguration Mehdi/
-Contains the source code and configuration files for the OWASP Misconfiguration demonstration project.
-index.html: Main web page displaying the user interface.
-style.css: CSS file for styling the interface.
-script.js: JavaScript logic for frontend interactivity.
-server.js: Node.js backend server using Express.
-package.json: Lists project dependencies and scripts.
-package-lock.json: Exact versions of installed dependencies.
+- `index.html`: Main web page displaying the user interface.
+- `style.css`: CSS file for styling the interface.
+- `script.js`: JavaScript logic for frontend interactivity.
+- `server.js`: Node.js backend server using Express.
+- `package.json`: Lists project dependencies and scripts.
+- `package-lock.json`: Exact versions of installed dependencies.
 
 ## 🛠️ Technologies Used
 
