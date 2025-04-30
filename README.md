@@ -1,4 +1,4 @@
-# Owasp-Misconfiguration-Project-
+
 # OWASP Misconfiguration Project 🔒
 
 This project simulates and demonstrates a common **OWASP security vulnerability: Security Misconfiguration**, using a simple Node.js web application. It showcases how misconfigurations in server settings, package versions, and insecure headers can lead to real security risks.
